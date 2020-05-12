@@ -1,0 +1,11 @@
+1. Express 
+    untuk membuat route API
+
+2. Mysql
+    untuk terhubung ke database Mysql
+
+3. Bcrypt
+    untuk hash password
+
+4. multer
+    untuk upload 
